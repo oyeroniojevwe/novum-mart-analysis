@@ -1,6 +1,6 @@
 # NovumMart Sales Performance Report (2020 - 2025)
 
-![Header Image](header-mg.jpg)
+![Header Image](header-image.jpg)
 
 ## Executive Summary
 This analysis evaluates NovumMart's sales performance from 2020–2025. It identifies patterns in monthly sales trends, provides insights into sales performance by product category and sales method, and highlights key growth drivers as well as areas of concern such as sales, orders, customers, and return rates.
@@ -64,8 +64,8 @@ Click the link to see the full report:[Click here](https://app.powerbi.com/view?
 - Expand efforts in the US market, where performance has remained relatively flat over the past five years. Greater awareness and presence in this market could significantly boost sales.
 
 ## Tools Used
-- Power Query: Data cleaning and transformation
-- Power BI: Data analysis and visualization
+- **Power Query:** Data cleaning and transformation
+- **Power BI:** Data analysis and visualization
 
 ## Conclusion
 NovumMart has maintained steady sales growth from 2020–2025, with strong contributions from the Accessories category and balanced customer preferences across payment methods. While return rates have improved since 2023, underperforming product categories and the untapped potential in the US market present clear opportunities for growth. Strengthening these areas will position NovumMart for sustained performance in the years ahead.
